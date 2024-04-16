@@ -40,9 +40,6 @@ To get started with the Movie App, follow these steps:
 ## Contributing
 Contributions to the Movie App are welcome! If you have any ideas for new features, enhancements, or bug fixes, feel free to submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for both personal and commercial purposes.
-
 ## Acknowledgements
 - **React Native Community**: For developing and maintaining the React Native framework.
 - **Expo Team**: For providing a powerful platform for building universal React applications.
